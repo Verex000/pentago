@@ -1,0 +1,173 @@
+Player 1 Name (player who moves first)
+kevin
+Player 2 Name
+ai
+Player 1 Token Color (B or W)
+b
+Player 2 Token Color (B or W) w
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[]
+Enter a move
+1/1 1R
+- - b - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[kevin: 1/1 1R]
+- - b - - - 
+- - - - - - 
+- - w - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R]
+Enter a move
+1/1 1L
+b - w - - - 
+- - - - - - 
+b - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L]
+b - w - - - 
+- w - - - - 
+b - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R]
+Enter a move
+1/4 2R
+b - w - - - 
+b w - - - - 
+b - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R]
+w - - - - - 
+- w - - - - 
+b b b - - - 
+w - - - - - 
+- - - - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L]
+Enter a move
+3/3 1L
+- - b - - - 
+- w b - - - 
+w - b - - - 
+w - b - - - 
+- - - - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L]
+b b b - - - 
+- w - - - - 
+- - w - - - 
+w - b - - - 
+- - w - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L]
+Enter a move
+2/1 3L
+- - - b - - 
+- - - - - - 
+- - - - - - 
+b w - - - - 
+- - - - - - 
+w - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L, kevin: 2/1 3L]
+w - - b - - 
+- - - - - - 
+- - - - - - 
+b w - - - - 
+- - - - - - 
+w - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L, kevin: 2/1 3L, ai: 1/3 1L]
+Enter a move
+2/2 3R
+w - - b b - 
+- - - - - - 
+- - - - - - 
+w - b - - - 
+- - w - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L, kevin: 2/1 3L, ai: 1/3 1L, kevin: 2/2 3R]
+- - - b b - 
+- - - w - - 
+- - - - - - 
+b w - - - - 
+- - - - - - 
+w - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L, kevin: 2/1 3L, ai: 1/3 1L, kevin: 2/2 3R, ai: 2/4 3L]
+Enter a move
+2/3 3R
+- - - b b b 
+- - - w - - 
+- - - - - - 
+w - b - - - 
+- - w - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L, kevin: 2/1 3L, ai: 1/3 1L, kevin: 2/2 3R, ai: 2/4 3L, kevin: 2/3 3R]
+- w - - w b 
+- - - - - b 
+- - - - - b 
+w - b - - - 
+- - w - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L, kevin: 2/1 3L, ai: 1/3 1L, kevin: 2/2 3R, ai: 2/4 3L, kevin: 2/3 3R, ai: 1/2 2R]
+Enter a move
+4/3 1L
+- - - - w b 
+w - - - - b 
+- - - - - b 
+w - b - - b 
+- - w - - - 
+- - - - - - 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L, kevin: 2/1 3L, ai: 1/3 1L, kevin: 2/2 3R, ai: 2/4 3L, kevin: 2/3 3R, ai: 1/2 2R, kevin: 4/3 1L]
+- - - - w b 
+w - - - - b 
+- - - - - b 
+- - w - - b 
+- - - - - - 
+- w b - - w 
+
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L, kevin: 2/1 3L, ai: 1/3 1L, kevin: 2/2 3R, ai: 2/4 3L, kevin: 2/3 3R, ai: 1/2 2R, kevin: 4/3 1L, ai: 4/9 3R]
+Enter a move
+4/6 3L
+Player 1 has Won!
+Here is the resulting board!
+b b w - w b 
+- - - - - b 
+- - - - - b 
+w - b - - b 
+- - w - - b 
+- - - - - w 
+
+Also the past history of all moves made!
+[kevin: 1/1 1R, ai: 1/9 3R, kevin: 1/1 1L, ai: 1/5 4R, kevin: 1/4 2R, ai: 3/1 1L, kevin: 3/3 1L, ai: 3/6 1L, kevin: 2/1 3L, ai: 1/3 1L, kevin: 2/2 3R, ai: 2/4 3L, kevin: 2/3 3R, ai: 1/2 2R, kevin: 4/3 1L, ai: 4/9 3R, kevin: 4/6 3L]
+7526

@@ -1,0 +1,134 @@
+Player 1 Name
+kevin
+Player 2 Name (player who moves first)
+ai
+Player 1 Token Color (B or W)
+b
+Player 2 Token Color (B or W) w
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[]
+w - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R]
+Enter a move
+1/2 1L
+- - - - - - 
+b - - - - - 
+w - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L]
+w b w - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R]
+Enter a move
+2/1 2L
+w b w - - - 
+- - - - - - 
+- - - b - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L]
+w b w - - - 
+- - - - - - 
+- - - w - b 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L, ai: 2/1 2L]
+Enter a move
+2/6 3R
+w b w - - - 
+- - - - - b 
+- - - w - b 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L, ai: 2/1 2L, kevin: 2/6 3R]
+w b w - b b 
+- - - - - - 
+- - - w - w 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L, ai: 2/1 2L, kevin: 2/6 3R, ai: 2/1 2L]
+Enter a move
+2/1 2R
+w b w w - b 
+- - - - - b 
+- - - w - b 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L, ai: 2/1 2L, kevin: 2/6 3R, ai: 2/1 2L, kevin: 2/1 2R]
+w b w w - w 
+- - - - - w 
+- - - b b b 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L, ai: 2/1 2L, kevin: 2/6 3R, ai: 2/1 2L, kevin: 2/1 2R, ai: 2/2 2R]
+Enter a move
+1/9 3R
+w b w w - w 
+- - - - - w 
+- - b b b b 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L, ai: 2/1 2L, kevin: 2/6 3R, ai: 2/1 2L, kevin: 2/1 2R, ai: 2/2 2R, kevin: 1/9 3R]
+- - w w w w 
+- - b - - w 
+b - w b b b 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L, ai: 2/1 2L, kevin: 2/6 3R, ai: 2/1 2L, kevin: 2/1 2R, ai: 2/2 2R, kevin: 1/9 3R, ai: 2/2 1R]
+Enter a move
+1/1 1L
+w b w w w w 
+- - - - - w 
+b - b b b b 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L, ai: 2/1 2L, kevin: 2/6 3R, ai: 2/1 2L, kevin: 2/1 2R, ai: 2/2 2R, kevin: 1/9 3R, ai: 2/2 1R, kevin: 1/1 1L]
+Player 2 has Won!
+Here is the resulting board!
+b w w w w w 
+- - b - - w 
+b - w b b b 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+Also the past history of all moves made!
+[ai: 1/1 4R, kevin: 1/2 1L, ai: 1/1 1R, kevin: 2/1 2L, ai: 2/1 2L, kevin: 2/6 3R, ai: 2/1 2L, kevin: 2/1 2R, ai: 2/2 2R, kevin: 1/9 3R, ai: 2/2 1R, kevin: 1/1 1L, ai: 1/4 1R]
